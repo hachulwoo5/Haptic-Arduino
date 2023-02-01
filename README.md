@@ -1,8 +1,8 @@
 # # Haptic Gloves - Arduino
 
 ## 💻 프로젝트 소개
-다섯 손가락 역감 지원 가상현실 햅틱 컨트롤러 기반 가상물체 물리 상호작용 연구의 프로토 타입으로
-압력 장갑을 제작해 사용자의 압력 값 데이터를 추출합니다.
+다섯 손가락 역감 지원 가상현실 햅틱 컨트롤러 기반 가상물체 물리 상호작용 연구의 
+프로토 타입으로, 압력 센서를 장착한 장갑을 제작해 사용자의 압력 값 데이터를 추출합니다.
     
 
 ## 📌 주요 기능
@@ -31,7 +31,7 @@
 
 
 ## :camera: 데이터 추출
-<img src = "https://user-images.githubusercontent.com/84338927/216107604-c79ec785-fee5-41a8-9a4b-d768036796cf.PNG" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/216107604-c79ec785-fee5-41a8-9a4b-d768036796cf.PNG" width="75%" height="75%">
 
 
 ## 🎥 플레이 영상
