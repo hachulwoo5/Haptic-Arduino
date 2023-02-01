@@ -23,15 +23,16 @@
 * Arduino IDE
 
 
-## :camera: 실행 화면
+## :camera: 실행 화면 및 장갑
 
-<img src = "https://user-images.githubusercontent.com/84338927/208936563-8f092c0f-19ab-4c0b-a14f-5de780441417.PNG" width="50%" height="50%">
-<img src = "https://user-images.githubusercontent.com/84338927/208937276-3b35bd0a-3ff7-49f2-9171-f8b01005c4e2.PNG" width="50%" height="50%">
-<img src = "https://user-images.githubusercontent.com/84338927/208938258-b64dfd5a-f537-4bad-842b-85eb9e688b21.PNG" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/216107264-3b5a1b3b-4d12-49f5-bb05-028eea3dc351.PNG" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/216107284-f252d6d4-9997-46bc-bfbc-654eea6501be.PNG" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/84338927/216107301-237b40b6-8557-4df7-bf9a-bf02d29a3869.PNG" width="50%" height="50%">
 
-## :camera: 장갑 및 회로도
-<img src = "https://user-images.githubusercontent.com/84338927/208937777-7b124720-028f-4da0-9276-c888f23ecbfb.PNG" width="50%" height="50%">
-<img src = "https://user-images.githubusercontent.com/84338927/208939039-2d56a0fd-c3b7-40dd-b0a7-8acab4dc9283.PNG" width="50%" height="50%">
+
+## :camera: 데이터 추출
+<img src = "https://user-images.githubusercontent.com/84338927/216107604-c79ec785-fee5-41a8-9a4b-d768036796cf.PNG" width="50%" height="50%">
+
 
 ## 🎥 플레이 영상
 [YouTube ⏯️](https://youtube.com/shorts/92c2QG2ClXk?feature=share)
