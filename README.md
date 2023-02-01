@@ -38,4 +38,5 @@
 <img src = "https://user-images.githubusercontent.com/84338927/208937777-7b124720-028f-4da0-9276-c888f23ecbfb.PNG" width="50%" height="50%">
 <img src = "https://user-images.githubusercontent.com/84338927/208939039-2d56a0fd-c3b7-40dd-b0a7-8acab4dc9283.PNG" width="50%" height="50%">
 
-
+## 🎥 플레이 영상
+[YouTube ⏯️](https://youtube.com/shorts/92c2QG2ClXk?feature=share)
